@@ -1,5 +1,7 @@
 # PyRes-wrapper
 
+PyRes is a simple python resolution theorem prover for first order logic. This is a wrapper to pip install it as a python package. See <https://github.com/eprover/PyRes>
+
 Installation
 
 ```bash
