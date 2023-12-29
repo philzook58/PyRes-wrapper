@@ -1,0 +1,3 @@
+[submodule "PyRes"]
+	path = PyRes
+	url = https://github.com/eprover/PyRes

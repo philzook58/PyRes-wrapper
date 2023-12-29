@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyRes"
+version = "0.1.0"
+#author = "Stephan Schulz"
+#author_email = "schulz@eprover.org"
+description = "Pedagogical first-order prover in Python"
+license = {"file" = "PyRes/COPYING"}
